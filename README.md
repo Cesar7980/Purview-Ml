@@ -46,4 +46,4 @@ products:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://cr.linkedin.com/in/cesar-vanegas-45158555?trk=public_profile_samename-profile)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-cesar7980&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cesar7980&theme=dark&background=000000)](https://git.io/streak-stats)
