@@ -9,7 +9,7 @@ products:
 - azure-machine-learning
 ---
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
 
 ![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar7980&count_private=true)
 
