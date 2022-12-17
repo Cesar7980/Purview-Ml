@@ -45,3 +45,5 @@ products:
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://cr.linkedin.com/in/cesar-vanegas-45158555?trk=public_profile_samename-profile)
+
+https://github-readme-streak-stats.herokuapp.com/?user=cesar7980
