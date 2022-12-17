@@ -26,7 +26,7 @@
         "subscriptionId": "[subscription().subscriptionId]",
         "location": "[resourceGroup().location]",
         "rgId": "[resourceGroup().id]",
-        "rgName": "[concat('rg-ws-',variables('paramName'))]",
+        "rgName": "[concat('rg-',variables('paramName'))]",
 
         "tenantId": "[subscription().tenantId]",
         "paramName": "[parameters('prefixName')]",

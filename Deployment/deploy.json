@@ -55,9 +55,7 @@
       "type": "Microsoft.Resources/resourceGroups",
       "apiVersion": "2019-10-01",
       "location": "[variables('location')]",
-      "tags": {
-      "displayname": "resource-group"
-      },
+      "tags": {},
       "properties": {}
         },
 	
