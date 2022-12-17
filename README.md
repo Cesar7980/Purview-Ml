@@ -17,4 +17,4 @@ products:
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-/appveyor/build/:user/:repo
+/appveyor/build/:cesar7980/:Purview-Ml
