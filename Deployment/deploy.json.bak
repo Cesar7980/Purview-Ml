@@ -26,7 +26,7 @@
         "subscriptionId": "[subscription().subscriptionId]",
         "location": "[resourceGroup().location]",
         "rgId": "[resourceGroup().id]",
-        "rgName": "[resourceGroup().name]",
+        "rgName": "[concat('rg-ws-',variables('paramName'))]",
 
         "tenantId": "[subscription().tenantId]",
         "paramName": "[parameters('prefixName')]",
@@ -51,12 +51,12 @@
 
     "resources": [
 	         {
+      "name": "[variables('rgName')]",
       "type": "Microsoft.Resources/resourceGroups",
-      "apiVersion": "2020-06-01",
-      "rgName": "[concat(variables('purviewname'), 'rg')]",
+      "apiVersion": "2019-10-01",
       "location": "[variables('location')]",
       "tags": {
-        "Note": "subscription level deployment"
+      "displayname": "resource-group"
       },
       "properties": {}
         },
