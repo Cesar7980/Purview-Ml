@@ -10,7 +10,7 @@ products:
 ---
 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcesar7980%2FPurview-ML%2Fmain%2FDeployment%2Fdeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FCesar7980%2FPurview-ML%2Fmain%2FDeployment%2Fdeploy.json)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
 
