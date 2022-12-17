@@ -44,4 +44,4 @@ div id= "header" align="center">
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linked-blue?style=flat&logo=Linkedin&logoColor=white)](https://cr.linkedin.com/in/cesar-vanegas-45158555?trk=public_profile_samename-profile)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linked in-blue?style=flat&logo=Linkedin&logoColor=white)](https://cr.linkedin.com/in/cesar-vanegas-45158555?trk=public_profile_samename-profile)
